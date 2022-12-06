@@ -1,0 +1,24 @@
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\AplikasiCalculator.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\AplikasiCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.ApliaksiCalculator.resources
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Calkulator.resources
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Acer Nitro 5\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\bin\Debug\Kalkulator.exe
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\AplikasiCalculator.csproj.AssemblyReference.cache
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\AplikasiCalculator.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\Kalkulator.ApliaksiCalculator.resources
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\Kalkulator.Calkulator.resources
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\Kalkulator.exe
+D:\PemrogLanjut\kalkulatorapp\Kalkulator\obj\Debug\Kalkulator.pdb
